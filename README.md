@@ -18,3 +18,15 @@ This project is a ** Car Dealership Inventory System ** implemented in C++ using
    # Screenshot
 ![Screenshot 2024-11-17 122001](https://github.com/user-attachments/assets/73b51b9f-4add-4140-bb0d-d7e1b9d907a0)
 
+
+# Video Presentation
+
+https://github.com/user-attachments/assets/1f2c613b-c6b3-43fe-807f-01b713ff8f45
+
+
+
+
+
+
+
+
