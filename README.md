@@ -1,7 +1,7 @@
 # Project-2
 # Author
 * Name: Saurav Poudel
-* Email: 300645312@peralta.cc.edu
+* Email: 30064531@peralta.cc.edu
 * Date: November 17 2024
 # Overview
 This project is a ** Car Dealership Inventory System ** implemented in C++ using modular programming with a header file, implementation file, and main file. The program allows the dealership to manage its inventory of cars, including viewing car details, selling cars to customers, and saving/loading inventory data to a file. 
@@ -15,4 +15,6 @@ This project is a ** Car Dealership Inventory System ** implemented in C++ using
   * Dealership.hpp: It declares the 'Car' structure and 'Dealership' class. Also contains method prototypes for managing the inventory.
   * Dealership.cpp: It implements the methods declared in 'Dealership.hpp' and includes file I/O, car management and utility functions.
   * Main.cpp: It contains the main logic of the program and provides an interactive menu fo user input and manages inventory operations.
-    
+   # Screenshot
+![Screenshot 2024-11-17 122001](https://github.com/user-attachments/assets/73b51b9f-4add-4140-bb0d-d7e1b9d907a0)
+
